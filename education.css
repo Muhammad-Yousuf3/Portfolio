@@ -1,0 +1,47 @@
+body{
+    background:linear-gradient(to right,black,grey,black);
+}
+
+.navbar{
+    display: flex;
+    margin-left: 6cm;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-size: 18px;
+}
+.navbar a:hover{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: xx-large;
+    margin-top: 6cm;
+    margin-left: 3cm;
+    float: left;
+    font-family:Roboto;
+}
+
+.main{
+    float: right;
+    margin-right: 4cm;
+    margin-top: 2cm;
+    color: white;
+}
+
+p{
+    font-weight: bold;
+    font-size:larger ;
+    font-family: Roboto;
+}
+
+h2{
+    margin-top: 1cm;
+    font-family: Roboto;
+}
+
+
+

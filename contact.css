@@ -1,0 +1,50 @@
+body{
+    background:linear-gradient(to right,grey,black);
+}
+
+.navbar{
+    display: flex;
+    margin-left: 2cm;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 18px;
+}
+.navbar a:hover{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    margin-left: 13.5cm;
+}
+
+.email{
+    width: 10cm;
+    height: 10cm;
+    margin-left: 11.5cm;
+    margin-top: -1cm;
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: larger;
+    margin-left: 13.5cm;
+}
+
+.e{
+    margin-left: 15.6cm;
+    margin-top: -2cm;
+    color: white;
+    font-family: Roboto;
+}
+.a:hover{
+    color: black;
+}
+
+
